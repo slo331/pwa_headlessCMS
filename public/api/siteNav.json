@@ -1,0 +1,75 @@
+{
+  "primaryNav": [
+    {
+      "name": "Home",
+      "url": "/",
+      "page": "home"
+    },
+    {
+      "name": "Clients",
+      "url": "/clients",
+      "page": "clients",
+      "subnav": [
+        {
+          "name": "Identify",
+          "url": "/clients/identify",
+          "page": "identify"
+        },
+        {
+          "name": "Attract",
+          "url": "/clients/attract",
+          "page": "attract"
+        },
+        {
+          "name": "Engage",
+          "url": "/clients/engage",
+          "page": "engage"
+        }
+      ]
+    },
+    {
+      "name": "Professionals",
+      "url": "/professionals",
+      "page": "professionals"
+    },
+    {
+      "name": "Job search",
+      "url": "/job-search",
+      "page": "job-search"
+    },
+    {
+      "name": "News and updates",
+      "url": "/news-updates",
+      "page": "news-updates"
+    },
+    {
+      "name": "Careers at Ambit",
+      "url": "/careers-ambit",
+      "page": "careers-ambit"
+    }
+  ],
+  "userNav": [
+    {
+      "name": "Clients",
+      "url": "https://jobsearch.ambit.careers/client/login",
+      "target": "_blank"
+    },
+    {
+      "name": "Candidates",
+      "url": "https://jobsearch.ambit.careers/candidate/login",
+      "target": "_blank"
+    }
+  ],
+  "footerNav": [
+    {
+      "name": "Privacy policy",
+      "url": "#",
+      "target": "_blank"
+    },
+    {
+      "name": "Cookies Policy",
+      "url": "#",
+      "target": "_blank"
+    }
+  ]
+}
